@@ -1,5 +1,6 @@
 # Bếp Nhà — Interactive HCI Prototype
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Website-green?style=for-the-badge)](https://divine-frost-db96.cfoprouxzz.workers.dev/) <br/>
 Prototype tiếng Việt cho đề tài **Hệ thống AI phân tích bữa ăn và đề xuất thực đơn cá nhân hóa theo bệnh lý của từng thành viên trong gia đình**.
 
 ## Chạy dự án
