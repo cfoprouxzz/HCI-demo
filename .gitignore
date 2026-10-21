@@ -35,3 +35,5 @@ Thumbs.db
 
 # Local testing and coverage
 coverage/
+
+package-lock.json
